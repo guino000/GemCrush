@@ -1,0 +1,21 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Animations/Spritesheets/blue_sprites.tpsheet
+- Assets/Resources/Animations/Spritesheets/green_sprites.tpsheet
+- Assets/Resources/Animations/Spritesheets/red_sprites.tpsheet
+- Assets/Resources/Animations/Spritesheets/yellow_sprites.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Animations/Spritesheets/blue_sprites.png
+- Assets/Resources/Animations/Spritesheets/green_sprites.png
+- Assets/Resources/Animations/Spritesheets/red_sprites.png
+- Assets/Resources/Animations/Spritesheets/yellow_sprites.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

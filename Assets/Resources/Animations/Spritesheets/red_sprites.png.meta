@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 950805fe4e2195e4bb724659b740a12f
+timeCreated: 1496335827
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red_sprites_0
+    21300002: red_sprites_1
+    21300004: red_sprites_2
+    21300006: red_sprites_3
+    21300008: red_sprites_4
+    21300010: red_sprites_5
+    21300012: red_sprites_6
+    21300014: red_sprites_7
+    21300016: red_sprites_8
+    21300018: red_sprites_12
+    21300020: red_sprites_13
+    21300022: red_sprites_23
+    21300024: red_sprites_27
+    21300026: red_sprites_28
+    21300028: red_sprites_30
+    21300030: red_sprites_35
+    21300032: red_sprites_40
+    21300034: red_sprites_45
+    21300036: red_sprites_9
+    21300038: red_sprites_10
+    21300040: red_sprites_33
+    21300042: red_sprites_36
+    21300044: red_sprites_37
+    21300046: red_sprites_46
+    21300048: red_sprites_50
+    21300050: red_sprites_51
+    21300052: red_sprites_52
+    21300054: red_sprites_53
+    21300056: red_sprites_54
+    21300058: red_sprites_55
+    21300060: red_sprites_56
+    21300062: red_sprites_57
+    21300064: red_sprites_58
+    21300066: red_sprites_59
+    21300068: red_sprites_60
+    21300070: red_clock-g5
+    21300072: red_clock-rc1
+    21300074: red_clock-rc2
+    21300076: red_clock-rc3
+    21300078: red_clock-rc4
+    21300080: red_clock-rc5
+    21300082: red_clock-rc6
+    21300084: red_clock-small_rci1
+    21300086: red_clock-small_rci2
+    21300088: red_clock-small_rci3
+    21300090: Red_Destroyed-g1
+    21300092: Red_Destroyed-g2
+    21300094: Red_Destroyed-g3
+    21300096: Red_Destroyed-g4
+    21300098: Red_Destroyed-g5
+    21300100: Red_idle-ri1
+    21300102: Red_Power-rp1
+    21300104: Red_Power-rp2
+    21300106: Red_Power-rp3
+    21300108: Red_Power-rp4
+    21300110: Red_Power-rp5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_clock-g5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 847
+        width: 388
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-rc1
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1369
+        width: 278
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-rc2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 445
+        width: 375
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-rc3
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 685
+        width: 355
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-rc4
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1249
+        width: 392
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-rc5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 847
+        width: 387
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-rc6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 218
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-small_rci1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 274
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-small_rci2
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 121
+        width: 274
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: red_clock-small_rci3
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 121
+        width: 274
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Destroyed-g1
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1087
+        width: 277
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Destroyed-g2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1249
+        width: 398
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Destroyed-g3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 847
+        width: 385
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Destroyed-g4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1249
+        width: 392
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Destroyed-g5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 847
+        width: 388
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_idle-ri1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 283
+        width: 275
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Power-rp1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 565
+        width: 275
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Power-rp2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 565
+        width: 275
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Power-rp3
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 403
+        width: 275
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Power-rp4
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 403
+        width: 275
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Power-rp5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 283
+        width: 275
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
